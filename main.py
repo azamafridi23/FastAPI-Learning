@@ -3,6 +3,11 @@ TO RUN => uvicorn main:app --reload
 
 AYNCHIO, AWAIT AND ASYNC IN PYTHON: https://www.youtube.com/watch?v=K56nNuBEd0c
 
+READING MATERIAL =
+1) https://fastapi.tiangolo.com/async/#in-a-hurry
+2)  https://www.youtube.com/watch?v=lChNu4iK2vQ
+3) https://fastapi.tiangolo.com/tutorial/
+
 '''
 from typing import List
 from fastapi import FastAPI, HTTPException
